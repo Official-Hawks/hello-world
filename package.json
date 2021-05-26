@@ -15,5 +15,8 @@
   "engines": {
     "node": ">=4.0.0"
   },
+    "dependencies": {
+    "sleep": "1.x"
+  },
   "main": "index.js"
 }
