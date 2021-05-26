@@ -1,0 +1,19 @@
+  
+{
+  "author": "Hawks",
+  "scripts": {
+    "test": "echo hello"
+  },
+  "name": "hello-world",
+  "version": "0.0.1",
+  "homepage": "http://github.com/Official-Hawks/hello-world",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Official-Hawks/hello-world"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "main": "index.js"
+}
